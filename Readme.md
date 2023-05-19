@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to edit grid data using a two-way data-bound grid lookup in dynamic item load mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3653/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543458/)**
 <!-- run online end -->
 
 This example demonstrates how to add a grid lookup editor to a column edit item template, bind the editor to a large data source, and enable its dynamic item load mode.
