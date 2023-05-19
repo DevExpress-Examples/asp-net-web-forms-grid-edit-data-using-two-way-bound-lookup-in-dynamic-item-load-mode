@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e3653/)**
 <!-- run online end -->
 
-This example demonstrates how to add a grid lookup editor to a column edit item template, bind the editor to a large large data source, and enable its dynamic item load mode.
+This example demonstrates how to add a grid lookup editor to a column edit item template, bind the editor to a large data source, and enable its dynamic item load mode.
 
 ![Grid Lookup in dynamic item load](BindGridLookupToLargeDataSource.png)
 
