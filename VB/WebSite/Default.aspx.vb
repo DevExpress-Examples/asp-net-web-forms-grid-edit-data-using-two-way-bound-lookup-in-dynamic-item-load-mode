@@ -22,7 +22,8 @@ Partial Public Class _Default
 
 		Dim dataContext As New DataClassesDataContext()
 
-		Dim id As Integer = Int32.Parse(e.Value.ToString())
+'INSTANT VB NOTE: The variable id was renamed since Visual Basic does not handle local variables named the same as class members well:
+		Dim id_Conflict As Integer = Int32.Parse(e.Value.ToString())
 		Dim query = From category In dataContext.Categories
 			Where category.CategoryID = id
 			Select category
