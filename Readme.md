@@ -90,7 +90,7 @@ public void ItemsRequestedByFilterCondition(object source, DevExpress.Web.ListEd
 * [Binding to Large Data (Database Server Mode)](https://docs.devexpress.com/AspNet/3787/components/data-editors/common-concepts/binding-to-data#binding-to-large-data-database-server-mode)
  *[Bind Grid View to Large Data (XPO)](https://docs.devexpress.com/AspNet/3726/components/grid-view/concepts/bind-to-data/binding-to-large-data-database-server-mode/data-binding-to-large-data-via-xpo)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-edit-data-using-two-way-bound-lookup-in-dynamic-item-load-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-edit-data-using-two-way-bound-lookup-in-dynamic-item-load-mode&~~~was_helpful=no)
 
